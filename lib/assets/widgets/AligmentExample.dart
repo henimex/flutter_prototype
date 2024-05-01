@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class AliigmentExample extends StatelessWidget {
-  const AliigmentExample({
+class AlignmentExample extends StatelessWidget {
+  const AlignmentExample({
     super.key,
   });
 
