@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'assets/widgets/CoffeeShop2Widget.dart';
+import 'package:new_tutorial/assets/widgets/DartLangTestWidget.dart';
+
 
 void main() {
-  runApp(const CoffeeShop2());
+  runApp(const DartLangTest());
 }
