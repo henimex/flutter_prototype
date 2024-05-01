@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:new_tutorial/assets/widgets/CoffeeShopWidget.dart';
-
-import 'assets/widgets/HomeWorkWidget.dart';
+import 'assets/widgets/CoffeeShop2Widget.dart';
 
 void main() {
-  runApp(const CoffeeShop());
+  runApp(const CoffeeShop2());
 }
